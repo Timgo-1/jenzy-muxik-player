@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- @Flevix.com  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1800px"
+	 height="1200px" viewBox="0 0 1800 1200" enable-background="new 0 0 1800 1200" xml:space="preserve">
+<g id="Background">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="900" y1="-12" x2="900" y2="2043.3301">
+		<stop  offset="0" style="stop-color:#262262"/>
+		<stop  offset="1" style="stop-color:#2E3192;stop-opacity:50"/>
+	</linearGradient>
+	<rect fill="url(#SVGID_1_)" stroke="#000000" stroke-miterlimit="10" width="1800" height="1200"/>
+</g>
+<g id="l3">
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="483.148" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="600" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="716.852" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+		
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+		
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="833.704" r="115.572">
+		
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+		
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="833.704" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="950.556" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="1067.408" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="1184.26" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="367.576" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="252.004" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="136.432" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="41.914" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="173.927" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="305.941" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="437.954" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="569.967" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="701.98" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="833.993" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="966.007" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1098.02" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1230.033" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1362.046" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1494.059" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1626.073" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="5s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+	<circle opacity="0.4" fill="#6886C4" cx="1758.086" cy="20.86" r="115.572">
+		<animateTransform attributeName="transform"
+                  attributeType="XML"
+                  type="translate"
+                  dur="4s"
+                  values="0,20;0,-20;0,20;"
+                  repeatCount="indefinite"/>
+	</circle>
+</g>
+</svg>
